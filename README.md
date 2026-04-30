@@ -1,22 +1,14 @@
-# App Video - Generador de videos educativos
+# Generador de Videos Educativos
 
-Esta aplicación genera videos educativos a partir de texto.
+Este repositorio contiene la aplicación generada para crear videos educativos a partir de texto.
 
-## 🚀 Cómo usarla
+**Propósito:**  
+Proyecto generado para demostración / video ilustrativo.
 
-1. Abre el archivo `index.html` en tu navegador.
-2. Escribe el texto o tema que deseas.
-3. Pulsa el botón para generar el video.
-
-## Tecnologías usadas
-- HTML
-- CSS
-- JavaScript
-
-## Estructura del proyecto
-- `/src` → Archivos principales de la aplicación
+**Estructura:**
 - `index.html` → Página principal
+- Carpeta `src/` → Código fuente
 
 ---
 
-Made with ❤️ by [tu nombre o usuario]
+Video ilustrativo disponible en el PDF adjunto.
